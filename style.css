@@ -1,0 +1,9 @@
+	.firstP{
+		color: red;
+		padding: 10px
+	}
+	.secondP{
+		font-size: 20px;
+		background:yellow;
+		color: blue;
+	}
